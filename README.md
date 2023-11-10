@@ -45,12 +45,19 @@
     - Data Scraping
     - SQL Database (Data Cleaning)
     - Python Flask API Framework
-    - Frontend: HTML, JavaScript, CSS
+    - Frontend: HTML, JavaScript, CSS, D3.js
+  - Data Visualisation:
+    - Tableau
+    - HTML Dashboards
+    - Leaflet
+  - Large data management:
+    - Pyspark
+      - Storage, Partitioning and Caching
+    - Databricks
 
 ## Favorite Projects
 - I particularly enjoy working on projects related to:
   - Web Development
-  - Database Management
   - Machine Learning
 
 The most interesting projects I've worked on so far have been in the field of machine learning.
